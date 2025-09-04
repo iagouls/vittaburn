@@ -3808,3 +3808,20 @@ a {
 .cid-uOXnAckY1F .media-container-row .row-copirayt p {
   width: 100%;
 }
+
+.seo-link {
+  color: inherit !important;
+  text-decoration: none !important;
+  font-weight: inherit !important;
+  background: none !important;
+}
+
+.seo-link:hover,
+.seo-link:focus,
+.seo-link:active {
+  color: inherit !important;
+  text-decoration: none !important;
+  background: none !important;
+  cursor: pointer !important;
+}
+
